@@ -16,7 +16,7 @@ cmd({
     if (!isOwner) return reply("This command is only for the bot owner.");
 
     try {
-        await reply("🔍 Checking for PRINCE_MD updates...");
+        await reply("🔍 Checking for KINGDOM-MD updates...");
 
         // Fetch the latest commit hash from GitHub
         const { data: commitData } = await axios.get("https://api.github.com/repos/Tohidkhan6332/TOHID_MD/commits/main");
@@ -26,14 +26,14 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your PRINCE_MD bot is already up-to-date!");
+            return reply("✅ Your KINGDOM-MD bot is already up-to-date!");
         }
 
-        await reply("🚀 Updating PRINCE_MD Bot...");
+        await reply("🚀 Updating KINGDOM-MD Bot...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/majidi50/.-PRINCE-MD/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/Anzad378/KINGDOM-MD/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "PRINCE_MD-main");
+        const sourcePath = path.join(extractPath, "KINGDOM-MD-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
