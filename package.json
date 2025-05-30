@@ -1,12 +1,12 @@
 {
-  "name": "PRINCE_MD",
+  "name": "KINGDOM-MD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By princetech",
+  "description": "A WHATSAPP BOT CREATED BY KINGDOM MD",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name TOHID_MD",
     "stop": "pm2 stop TOHID_MD",
-    "restart": "pm2 restart PRINCE_MD"
+    "restart": "pm2 restart KINGDOM-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
