@@ -83,7 +83,7 @@ cmd({
             try {
                 await new Promise(resolve => setTimeout(resolve, 1000)); // Small delay after image
                 await conn.sendMessage(from, {
-                    audio: { url: 'https://github.com/majidi50/.-PRINCE-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+                    audio: { url: 'https://github.com/Anzad378/KINGDOM-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
                     mimetype: 'audio/mp4',
                     ptt: true,
                 }, { quoted: mek });
