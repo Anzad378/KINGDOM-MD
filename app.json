@@ -1,8 +1,8 @@
 {
-  "name": "PRINCE_MD",
-  "description": "Javascript WhatsApp bot made by Tohid Khan",
-  "logo": "https://files.catbox.moe/fltpob.jpeg",
-  "keywords": ["PRINCE_MD"],
+  "name": "KINGDOM-MD",
+  "description": "WHATSAPP BOT MADE BY KINGDOM MD",
+  "logo": "https://files.catbox.moe/0kwukb.jpg",
+  "keywords": ["KINGDOM-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "PRINCE_MD"
+      "value": "KINGDOM-MD"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY PRINCE_MD 🇹🇿*"
+      "value": "*SEEN YOUR STATUS BY KINGDOM-MD 🇹🇿*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Princetech"
+      "value": "KINGDOM-MD"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "917849917350"
+      "value": "255654667145"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PRINCE_MD"
+      "value": "KINGDOM-MD"
 
       }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/4ZSYvPTq/lordali.jpg"
+      "value": "https://files.catbox.moe/0kwukb.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*POWERED BY PRINCE_MD*"
+      "value": "*POWERED BY KINGDOM-MD*"
     },
 
       "DELETE_LINKS": {
