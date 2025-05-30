@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *PRINCE_MD* 〕━━┈⊷
+            caption: `╭━━〔 *KINGDOM-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -44,14 +44,14 @@ async (conn, mek, m, { from }) => {
 ┃◈├ ╚╩═╩╩╝───╚╩═╩╩╩╩═╝
 ┃◈╰─────────────●●►
 ╰──────────────┈⊷
-> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 PRINCE_𝙼𝙳`, // Display the owner's details
+> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 KINGDOM-MD`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: 'PRINCE 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterName: 'KINGDOM-MD 🤖',
                     serverMessageId: 143
                 }            
             }
