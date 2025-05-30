@@ -54,7 +54,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterName: 'KINGDOM-MD 🤖',
                         serverMessageId: 143
                     }
                 }
@@ -73,7 +73,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterName: 'KINGDOM-MD 🤖',
                     serverMessageId: 143
                 }
             }
