@@ -62,7 +62,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/0kwukb.jpg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
@@ -430,7 +430,7 @@ cmd({
                                 await conn.sendMessage(
                                     senderID,
                                     {
-                                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' },
+                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/0kwukb.jpg' },
                                         caption: selectedMenu.content,
                                         contextInfo: contextInfo
                                     },
