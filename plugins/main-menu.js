@@ -352,7 +352,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/v2fbec.jpeg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/0kwukb.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
