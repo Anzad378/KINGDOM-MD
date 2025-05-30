@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/majidi50/.-PRINCE-MD';
+    const githubRepoURL = 'https://github.com/Anzad378/KINGDOM-MD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -172,7 +172,7 @@ ${repoData.description || 'No description provided'}
 
         // Send image with repo info
         await conn.sendMessage(from, {
-            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/cz46m1.jpeg' },
+            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/0kwukb.jpg' },
             caption: selectedStyle,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -180,7 +180,7 @@ ${repoData.description || 'No description provided'}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: config.OWNER_NAME || 'PRINCE 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterName: config.OWNER_NAME || 'KINGDOM-MD 🤖',
                     serverMessageId: 143
                 }
             }
