@@ -134,7 +134,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },
+                image: { url: `https://files.catbox.moe/0kwukb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -200,7 +200,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },
+                image: { url: `https://files.catbox.moe/0kwukb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -283,7 +283,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },
+                image: { url: `https://files.catbox.moe/0kwukb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -361,7 +361,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },
+                image: { url: `https://files.catbox.moe/0kwukb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
