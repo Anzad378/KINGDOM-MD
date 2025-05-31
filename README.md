@@ -19,7 +19,8 @@
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
 
-<
+
+</a>
     </td>
     <td align="center" width="50%">
       <h3>Pair Session</h3>
@@ -33,15 +34,18 @@
       <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
         <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge" alt="Official Website">
       </a>
+
+</a> 
     </td>
     <td align="center" width="50%">
       <h3>Contact Developer</h3>
       <p>Get in touch with creator</p>
       <a href="https://wa.me/message/B67R2CEOSVXJK1">
         <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
-      </a>
+  </a>
 
-  <
+
+</a>
       </a>
     </td>
     <td align="center" width="50%">
