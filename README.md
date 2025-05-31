@@ -29,16 +29,16 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Official Website</h3>
-      <p>Visit Keith's official site</p>
-      <a href="https://keith-site.vercel.app">
+      <h3>Official group</h3>
+      <p>Visit kingdom's official group</p>
+      <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
         <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge" alt="Official Website">
       </a>
     </td>
     <td align="center" width="50%">
       <h3>Contact Developer</h3>
       <p>Get in touch with creator</p>
-      <a href="https://wa.me/255654667145">
+      <a href="https://wa.me/message/B67R2CEOSVXJK1">
         <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
       </a>
     </td>
@@ -59,11 +59,9 @@
 
 
 <p align="center">
-  <i>I don’t chase followers. I don’t care who deploys this. I code to make MY WhatsApp dope and MY life easier. Fixing scripts till they’re flawless? That’s my joy. Then? Netflix and zero fucks given."</i>
+  ."</i>
 </p>
 
-<div align="center">
-  <h3>Our Supporters</h3>
   
   <a href="https://github.com/Anzad378/KINGDOM-MD/stargazers">
     <img src="http://reporoster.com/stars/dark/Anzad378/KINGDOM-MD" alt="Stargazers">
