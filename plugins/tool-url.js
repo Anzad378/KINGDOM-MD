@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `> POWERED BY PRINCE_MD ☹️`
+      `> POWERED BY KINGDOM-MD ☹️`
     );
 
   } catch (error) {
