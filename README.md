@@ -18,6 +18,8 @@
       <a href="https://github.com/Anzad378/KINGDOM-MD/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
+
+<
     </td>
     <td align="center" width="50%">
       <h3>Pair Session</h3>
@@ -38,9 +40,8 @@
       <a href="https://wa.me/message/B67R2CEOSVXJK1">
         <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
       </a>
-    </td>
-  </tr>
-  <tr>
+
+  <
       </a>
     </td>
     <td align="center" width="50%">
@@ -52,14 +53,9 @@
     </td>
   </tr>
 </table>
-
-
-
-<p align="center">
-  ."</i>
+  
 </p>
 
-  
   <a href="https://github.com/Anzad378/KINGDOM-MD/stargazers">
     <img src="http://reporoster.com/stars/dark/Anzad378/KINGDOM-MD" alt="Stargazers">
   </a>
