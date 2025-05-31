@@ -38,17 +38,12 @@
     <td align="center" width="50%">
       <h3>Contact Developer</h3>
       <p>Get in touch with creator</p>
-      <a href="https://keith-site.vercel.app/contact">
+      <a href="https://wa.me/255654667145">
         <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>KEITH APIs</h3>
-      <p>APIs and integrations (updating)</p>
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt="KEITH APIs">
       </a>
     </td>
     <td align="center" width="50%">
@@ -71,11 +66,11 @@
   <h3>Our Supporters</h3>
   
   <a href="https://github.com/Anzad378/KINGDOM-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD" alt="Stargazers">
+    <img src="http://reporoster.com/stars/dark/Anzad378/KINGDOM-MD" alt="Stargazers">
   </a>
   
   <a href="https://github.com/Anzad378/KINGDOM-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD" alt="Forks">
+    <img src="http://reporoster.com/forks/dark/Anzad378/KINGDOM-MD" alt="Forks">
   </a>
 </div>
 
