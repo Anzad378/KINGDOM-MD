@@ -3,7 +3,7 @@
 <h3 align="center">"Survival is winning, everything else is bullshit. Fairy tales spun by people afraid to look life in the eye. Do whatever it takes to survive."</h3>
 
 <div align="center">
-  <img src="https://files.catbox.moe/4h8lfw.jpg" alt="ALPHA-MD Banner" width="400" />
+  <img src="https://files.catbox.moe/0kwukb.jpg" alt="ALPHA-MD Banner" width="400" />
   
   <hr style="width: 80%; margin: 20px auto; border: 0.5px solid #333;" />
 </div>
