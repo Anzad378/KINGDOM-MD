@@ -15,7 +15,7 @@
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/keithkeizzah/ALPHA-MD/fork">
+      <a href="https://github.com/Anzad378/KINGDOM-MD/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
@@ -54,7 +54,7 @@
     <td align="center" width="50%">
       <h3>Deploy</h3>
       <p>Deploy to your preferred platform</p>
-      <a href="https://dashboard.heroku.com/new?template=https://github.com/keithkeizzah/ALPHA-MD">
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/Anzad378/KINGDOM-MD">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
@@ -70,11 +70,11 @@
 <div align="center">
   <h3>Our Supporters</h3>
   
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/stargazers">
+  <a href="https://github.com/Anzad378/KINGDOM-MD/stargazers">
     <img src="http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD" alt="Stargazers">
   </a>
   
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/network/members">
+  <a href="https://github.com/Anzad378/KINGDOM-MD/network/members">
     <img src="http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD" alt="Forks">
   </a>
 </div>
