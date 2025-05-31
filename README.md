@@ -25,9 +25,6 @@
       <a href="https://alphapair.onrender.com/pair">
         <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge" alt="Pair Session">
       </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3>Official group</h3>
       <p>Visit kingdom's official group</p>
