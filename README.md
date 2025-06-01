@@ -45,8 +45,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>visit kingdom channel</h3>
-      <p>APIs and integrations (updating)</p>
+      <h3>Official channel</h3>
+      <p> visit official kingdom channel </p>
       <a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
         <img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt=" visit channel">
       </a>
