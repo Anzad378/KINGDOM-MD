@@ -63,4 +63,5 @@
 
 #WHATSAPP BOT CREATED BY TANZANIAN 
        # ANZAD MD TECH #
-
+       
+   @powerd by prince tech
