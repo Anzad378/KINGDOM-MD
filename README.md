@@ -1,9 +1,5 @@
 # KINGDOM-𝗠𝗗 👑
-
-<a
-  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADFF2F&center=true&width=1000&height=200&lines=THIS BOT POWERED BY KINGDOM-MD 👑 " alt="Typing SVG" /></a>
   
-  </div>
 <h3 align="center">"Survival is winning, everything else is bullshit. Fairy tales spun by people afraid to look life in the eye. Do whatever it takes to survive."</h3>
 
 <div align="center">
