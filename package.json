@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name TOHID_MD",
-    "stop": "pm2 stop TOHID_MD",
+    "stop": "pm2 stop KINGDOM_MD",
     "restart": "pm2 restart KINGDOM-MD"
   },
   "dependencies": {
