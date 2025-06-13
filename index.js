@@ -69,7 +69,7 @@ const {
 if (!fs.existsSync(__dirname + '')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace(" ");
-const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
+const filer = File.fromURL(`postgresql://kingdom_v839_user:BAUC1AWhBgCb4YLkG6RXhr7yAgOovqnt@dpg-d11qnb49c44c73fkk8gg-a.oregon-postgres.render.com/kingdom_v839/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
