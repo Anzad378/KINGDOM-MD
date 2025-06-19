@@ -15,14 +15,14 @@
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/Anzad378/KINGDOM-MD/fork">
+      <a href="https://github.com/Anzad378/KINGDOM-MD./fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
     <td align="center" width="50%">
       <h3>Pair Session</h3>
       <p>Link your session ID to start using</p>
-      <a href="https://kingdom-md-session-id.onrender.com">
+      <a href="https://kingdom-md-session-id.onrender.com/">
         <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge" alt="Pair Session">
       </a>
     </td>
@@ -54,7 +54,7 @@
     <td align="center" width="50%">
       <h3>Deploy</h3>
       <p>Deploy to your preferred platform</p>
-      <a href="https://dashboard.heroku.com/new?template=https://github.com/Anzad378/KINGDOM-MD">
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/Anzad378/KINGDOM-MD.">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
